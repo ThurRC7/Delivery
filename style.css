@@ -1,0 +1,31 @@
+body {
+    background-color: #45A545;
+}
+a
+{
+    text-decoration: none;
+    color: white;
+}
+header{display: flex;}
+
+#texto {
+    font-size: 30px;
+    color: white;
+}
+
+.img{
+    text-align: right;
+}
+.img2 {
+   text-align: right;
+}
+.img2 img{height: 290px;
+width: 420px;}
+.img3 img {
+   height: 400px;
+   width: 500px;
+}
+
+.img3{
+    text-align: center;
+}

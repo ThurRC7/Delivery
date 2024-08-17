@@ -1,0 +1,74 @@
+*{
+    
+    padding: 0;
+    margin: 0;
+}
+body{
+    height: 120vh;
+    background-color: red;
+}
+#logo{
+    height: 200px;
+}
+#div1{
+    width: 400px;
+}
+#header{
+    display: flex;
+    
+}
+#div2{
+    color: white;
+    font-size: 70px;
+    padding-left: 300px;
+    padding-top: 100px;
+}
+#centroPagina{
+    height: 60vh;
+    
+}
+.cardapiocima{
+    display: flex;
+    padding-left: 50px;
+    padding-top: 50px;
+    padding-right: 50px;
+    justify-content: space-around;
+}
+.fundoComidas{
+    border-radius: 80px;
+    background-color: white;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.nome{
+    color: white;
+    font-size: 30px;
+    font-weight: 600;
+}
+#home{
+    height: 50px;
+    padding-left: 600px;
+}
+#imagem{
+    height: 50px;
+}
+.fundobebidas{
+    border-radius: 80px;
+    background-color: white;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.nome2{
+    color: white;
+    font-size: 30px;
+    font-weight: 600;
+    padding-left: 20px;
+}
+.comidas2
+{
+    width: 147px;
+}

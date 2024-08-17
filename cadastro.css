@@ -1,0 +1,79 @@
+*{
+    
+    padding: 0;
+    margin: 0;
+}
+body{
+    height: 100vh;
+    background-color: rgb(1, 173, 173);
+}
+#logo{
+    height: 200px;
+}
+#div1{
+    width: 400px;
+}
+#header{
+    display: flex;
+    padding-top: 20px;
+}
+#div2{
+    color: white;
+    font-size: 70px;
+    padding-left: 300px;
+    padding-top: 100px;
+}
+#home{
+    height: 50px;
+    padding-left: 600px;
+    
+}
+#imagem{
+    height: 50px;
+}
+#inputs{
+    padding-left: 710px;
+    padding-top: 50px;
+}
+.txt{
+    border: none;
+    background: none;
+    outline: none;
+    padding: 0;
+    color: rgb(0, 0, 0);
+    font-size: 16px;
+    line-height: 40px;
+}
+.divInputs{
+    border: 1px solid #000000;
+     background-color: #ffffff;
+    padding: 8px;
+     border-radius: 20px;
+     display: flex;
+     justify-content: space-between;
+     align-items: center;
+     width: 200px;
+ }    
+ .cadastro{
+    color: white;
+    font-size: 30px;
+    font-weight: 600;
+ }
+ .Principal{
+    padding-bottom: 30px;
+ }
+ #divBotao1{
+    padding-right: 20px;
+ }
+ #botoes{
+    display: flex;
+ }
+ button{
+    width: 100px;
+    background-color: #000000;
+    height: 50px;
+    border-radius: 30px;
+    font-size: 18px;
+    color: white;
+    border: 1px solid #fff;
+ }

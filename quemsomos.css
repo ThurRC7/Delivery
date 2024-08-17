@@ -1,0 +1,26 @@
+body {
+    background-color: yellow;
+}
+#texto2 {
+    font-size: 45px;
+    padding: 20px;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+#texto3 {
+    font-size: 50px;
+    text-align: center;
+    padding-right: 100px;
+}
+#home{
+    height: 50px;
+}
+#imagem{
+    height: 50px;
+}
+#header{
+    display: flex;
+    justify-content: space-between;
+    padding-right: 50px;
+    padding-left: 50px;
+}
